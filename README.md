@@ -1,0 +1,1 @@
+![results-ss](/imagess/Ekran%20görüntüsü%202024-08-05%20181554.png)
