@@ -158,4 +158,12 @@ body {
     color: #fff;
     font-weight: 400;
     font-size: medium;
+    transition: 0.4s;
+}
+
+.continue:hover {
+    background-color: #0D9276;
+    color: #fff;
+    width: 40%;
+    transition: 0.4s;
 }
